@@ -61,6 +61,7 @@ Finedge/
 │   ├── GeneralContext.jsx     # Global state management
 │   └── package.json
 
+
 **🔐 Authentication & Security (Core Feature)**
 **🔹 JWT-Based Authentication**
 JWT token generated during **signup & login**
