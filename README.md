@@ -1,7 +1,7 @@
 ## **🚀 Finedge – Stock Trading Platform**
 Finedge is a** full-stack stock trading web application** inspired by real-world trading platforms. It includes a secure authentication system, a feature-rich trading dashboard, and a separate marketing/landing website, following industry-level architecture and best practices.
-
-## **⭐ Highlights **
+**
+## ⭐ Highlights **
 ✅ JWT Authentication with HTTP-Only Cookies
 ✅ Protected Routes & Secure User Sessions
 ✅ Modular MongoDB Schemas (User, Orders, Holdings, etc.)
