@@ -1,7 +1,7 @@
-**🚀 Finedge – Stock Trading Platform**
+## **🚀 Finedge – Stock Trading Platform**
 Finedge is a** full-stack stock trading web application** inspired by real-world trading platforms. It includes a secure authentication system, a feature-rich trading dashboard, and a separate marketing/landing website, following industry-level architecture and best practices.
 
-**⭐ Highlights 
+## **⭐ Highlights **
 ✅ JWT Authentication with HTTP-Only Cookies
 ✅ Protected Routes & Secure User Sessions
 ✅ Modular MongoDB Schemas (User, Orders, Holdings, etc.)
@@ -9,14 +9,14 @@ Finedge is a** full-stack stock trading web application** inspired by real-world
 ✅ Separate Landing Website + Trading App
 ✅ Scalable, Production-Ready Folder Structure**
 
-**🧠 What This Project Demonstrates**
+## **🧠 What This Project Demonstrates**
 How real fintech apps secure user data
 How JWT tokens are generated, stored, decoded, and verified
 Proper frontend–backend separation
 Clean React component architecture
 Debugging and fixing common auth & React mistakes
 
-**🏗️ Project Architecture**
+## **🏗️ Project Architecture**
 Finedge/
 │
 ├── Backend/
@@ -76,7 +76,7 @@ Token is decoded & verified on protected routes
 User data (like username) is fetched securely
 ⚠️ Frontend never directly accesses the token
 
-**📊 Trading Dashboard Features**
+## **📊 Trading Dashboard Features**
 🔐 Protected dashboard (login required)
 📈 Holdings & Positions tracking
 🧾 Order management (Buy / Sell)
@@ -85,7 +85,7 @@ User data (like username) is fetched securely
 📊 Charts for portfolio visualization
 🌐 Global state handled using React Context API
 
-**🌐 Landing Website Features**
+## **🌐 Landing Website Features**
 Product overview pages
 Pricing information
 Signup & onboarding flow
@@ -93,7 +93,7 @@ Support & navigation pages
 Clean routing with fallback (NotFound)
 Reusable UI components
 
-**🛠 Tech Stack**
+## **🛠 Tech Stack**
 
 **Frontend**
 React
@@ -110,7 +110,7 @@ JWT
 HTTP-Only Cookies
 bcrypt for password hashing
 
-**🧪 Key Learnings & Mistakes Solved**
+## **🧪 Key Learnings & Mistakes Solved**
 ❌ Calling hooks incorrectly → fixed Invalid Hook Call
 ❌ Token misuse → learned decode vs verify
 ❌ Client-side token access → fixed with HTTP-only cookies
@@ -118,14 +118,14 @@ bcrypt for password hashing
 
 **✅ Understood real-world auth flow end-to-end**
 
-**🚀 Future Improvements**
+## **🚀 Future Improvements**
 Role-based access control
 Refresh tokens
 Live stock prices integration
 Deployment with environment-based configs
 
 
-**👩‍💻 Author
+## **👩‍💻 Author
 Bhakti Pandhare
 Computer Engineering Student | Full-Stack Developer
 Passionate about building secure, scalable web applications**
