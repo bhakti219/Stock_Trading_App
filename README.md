@@ -18,7 +18,7 @@
 
 ---
 
-## 🏗 Project Architecture
+## 🏗Folder Structure
 
 Finedge/
 ├── Backend/
