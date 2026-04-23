@@ -1,16 +1,16 @@
 # Finedge
 
-## ⭐ Highlights
-- ✅ JWT Authentication with HTTP-Only Cookies
-- ✅ Protected Routes & Secure User Sessions
-- ✅ Modular MongoDB Schemas (User, Orders, Holdings, etc.)
-- ✅ Trading Dashboard with Charts & Portfolio Data
-- ✅ Separate Landing Website + Trading App
-- ✅ Scalable, Production-Style Folder Structure
+## Highlights
+-  JWT Authentication with HTTP-Only Cookies
+-  Protected Routes & Secure User Sessions
+-  Modular MongoDB Schemas (User, Orders, Holdings, etc.)
+-  Trading Dashboard with Charts & Portfolio Data
+-  Separate Landing Website + Trading App
+-  Scalable, Production-Style Folder Structure
 
 ---
 
-## 🧠 What This Project Demonstrates
+##  What This Project Demonstrates
 - How real fintech apps secure user data
 - How JWT tokens are generated, stored, decoded, and verified
 - Clean frontend–backend separation
@@ -18,7 +18,6 @@
 
 ---
 
-## 🏗Folder Structure
 
 ## 📁 Folder Structure
 
@@ -57,7 +56,7 @@ Finedge/
 
 ---
 
-## 🔐 Authentication & Security
+## Authentication & Security
 - JWT-based authentication
 - Token generated on signup/login
 - Token stored in HTTP-only cookies
@@ -66,7 +65,7 @@ Finedge/
 
 ---
 
-## 👩‍💻 Author
+##  Author
 **Bhakti Pandhare  
 Computer Engineering Student  
 Full-Stack Development Enthusiast**
