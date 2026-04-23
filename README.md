@@ -19,7 +19,10 @@
 ---
 
 ## 🏗Folder Structure
-'''
+
+## 📁 Folder Structure
+
+```
 Finedge/
 ├── Backend/
 │ ├── schemas/
@@ -46,7 +49,10 @@ Finedge/
 │ ├── Positions.jsx
 │ ├── WatchList.jsx
 │ └── TopBar.jsx
-'''
+```
+
+---
+
 
 
 ---
